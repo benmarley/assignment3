@@ -25,3 +25,98 @@ img {
 	width: 100%;
     display: block;
 }
+
+body {
+    margin:0;
+    padding: 0;
+    font-family: "gill sans";
+    font-size 1.5rem;
+}
+
+p {
+    line-height: 1.5rem;
+    margin: 1.5rem 5%;
+}
+
+header {
+    background-color: sienna;
+    overflow: hidden;
+}
+
+.logo {
+    width: 4.5rem;
+    height: auto;
+    float: left;
+}
+
+header h1 {
+    font-family: "gill sans";
+}
+    
+.nav-top {
+    clear:both;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-top ul {
+    margin: 0;
+    padding 0;
+    background-color: tan;
+    text-align: center;
+}
+
+.nav-top li {
+    display:inline;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-top a,
+.nav-top:link,
+.nav-top:visited {
+    text-decoration: none;
+    display:inline-block;
+    margin: 0;
+    padding: 1rem 16%;
+    color: white;
+    
+    
+}
+.billboard {
+    height: 15rem;
+    background-repeat: no-repeat;
+    background-image: url(../images/mastheadheadphones.jpg);
+    background-size: 25rem;
+    background-color: gray;
+}
+
+.billboard h2 {
+    left: 5%;
+    bottom: 35rem;
+    text-align: left;
+    text-decoration: none;
+}
+
+.billboard h2, a:visited {
+    color:black;
+    text-decoration: none;
+}
+
+figure {
+    margin: 1.5rem 5%;
+    padding: 0;
+}
+
+figcaption {
+    text-decoration: none;
+}
+
+.title {
+    margin: 1.5rem 5% 1.5rem;
+    line-height: 3.5rem;
+    font-size: 3rem;
+}
+
+
+    
