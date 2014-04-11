@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 522.707 522.707" enable-background="new 0 0 522.707 522.707" xml:space="preserve">
+<rect x="0" y="0" fill="#392E2C" width="522.707" height="522.707"/>
+<g>
+	<rect x="181.288" y="30.715" fill="#DBD9D6" width="171.096" height="171.096"/>
+	<text transform="matrix(1 0 0 1 256.3607 212.1029)" fill="#392E2C" font-family="'MyriadPro-Regular'" font-size="225.0107">f</text>
+</g>
+<g>
+	<rect x="153.553" y="304.255" fill="#DBD9D6" width="182.59" height="182.59"/>
+	<g>
+		<circle fill="#392E2C" cx="266.999" cy="375.943" r="23.403"/>
+		<path fill="#392E2C" d="M256.864,377.92c0,0-14.82,27.866-68.543,50.509c29.951,19.277,100.532,12.87,93.575-35.078
+			C269.512,368.051,256.864,377.92,256.864,377.92z"/>
+		<path fill="#392E2C" d="M279.386,356.542l21.988-2.235c0,0-16.644,6.916-16.191,10.871"/>
+		<path fill="#392E2C" d="M282.763,368.778c0,0,13.407,0.721,15.235-3.601c-8.532,10.304-15.235,9.674-15.235,9.674V368.778z"/>
+		<path fill="#392E2C" d="M258.692,392.195c0,0-49.657-14.871-65.584-23.48c-9.369,11.74,38.414,35.22,53.404,35.22
+			C254.008,396.109,258.692,392.195,258.692,392.195z"/>
+		<path fill="#392E2C" d="M253.195,399.221c0,0-42.869-7.126-57.295-13.138c-5.527,12.77,37.338,28.525,49.489,26.321
+			C250.087,403.707,253.195,399.221,253.195,399.221z"/>
+		<path fill="#392E2C" d="M250.794,400.231c0,0-43.435,1.381-58.757-1.698c-2.928,13.603,42.189,20.686,53.676,16.151
+			C248.622,405.238,250.794,400.231,250.794,400.231z"/>
+	</g>
+</g>
+<g>
+	<rect x="44.72" y="118.017" fill="#DBD9D6" width="167.589" height="167.589"/>
+	<g>
+		<path fill="#392E2C" d="M166.063,246.547H90.965c-8.729,0-15.805-7.076-15.805-15.805v-20.481c0-8.729,7.076-15.805,15.805-15.805
+			h75.097c8.729,0,15.805,7.076,15.805,15.805v20.481C181.868,239.471,174.792,246.547,166.063,246.547z"/>
+		<text transform="matrix(1 0 0 1 87.8275 188.3981)" fill="#392E2C" font-family="'MyriadPro-Regular'" font-size="48.2433">You</text>
+		<text transform="matrix(1 0 0 1 87.8266 234.3969)" fill="#DBD9D6" font-family="'MyriadPro-Regular'" font-size="41.8109">Tube</text>
+	</g>
+</g>
+<g>
+	<rect x="311.673" y="191.788" fill="#DBD9D6" width="152.013" height="152.013"/>
+	<g>
+		<circle fill="#392E2C" cx="356.118" cy="295.602" r="19.449"/>
+		<circle fill="#392E2C" cx="401.909" cy="225.587" r="18.39"/>
+		<circle fill="#392E2C" cx="420.299" cy="295.602" r="18.39"/>
+		<polyline fill="none" stroke="#392E2C" stroke-width="6" stroke-miterlimit="10" points="401.909,225.587 356.118,295.602 
+			420.299,295.602 		"/>
+	</g>
+</g>
+</svg>

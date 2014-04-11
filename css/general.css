@@ -39,7 +39,7 @@ p {
 }
 
 header {
-    background-color: sienna;
+    background-color: #330000;
     overflow: hidden;
 }
 
@@ -51,6 +51,7 @@ header {
 
 header h1 {
     font-family: "gill sans";
+    color:  tan;
 }
     
 .nav-top {
@@ -70,6 +71,7 @@ header h1 {
     display:inline;
     margin: 0;
     padding: 0;
+    font-size: 1.5rem
 }
 
 .nav-top a,
@@ -78,29 +80,19 @@ header h1 {
     text-decoration: none;
     display:inline-block;
     margin: 0;
-    padding: 1rem 16%;
+    padding: .5rem 10%;
     color: white;
     
     
 }
+
 .billboard {
     height: 15rem;
     background-repeat: no-repeat;
     background-image: url(../images/mastheadheadphones.jpg);
-    background-size: 25rem;
+    background-size: 100%;
     background-color: gray;
-}
-
-.billboard h2 {
-    left: 5%;
-    bottom: 35rem;
-    text-align: left;
-    text-decoration: none;
-}
-
-.billboard h2, a:visited {
-    color:black;
-    text-decoration: none;
+    background-position: top center;
 }
 
 figure {
@@ -109,14 +101,81 @@ figure {
 }
 
 figcaption {
+    text-align: center;
+    background-color: tan;
+    padding:.2rem;
     text-decoration: none;
 }
 
 .title {
     margin: 1.5rem 5% 1.5rem;
     line-height: 3.5rem;
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
+
+hr {
+    margin: 1.5rem 30%;
+}
+
+.bucket1 {
+    overflow: hidden;
+    margin: 1.5rem
+}
+
+.bucket1 div {
+    float: left;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+    border-style: solid;
+}
+
+.bucket1 p {
+    float: right;
+    width: 50%;
+    margin:0;
+    padding: 1.5rem 0 0 0;
+}
+
+.top { 
+    float: right;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.bottom {
+    float: right;
+    width: 50%;
+    margin: 0;
+    padding:0;
+}
+
+.socialbuckets {
+    width:4.5rem;
+    clear: both;
+    display: inline-block;
+    margin: .5rem;
+}
+
+footer {
+    background-color: #330000;
+    overflow: hidden;
+    margin: 1.5rem 0 0 0;
+    padding: 0 0 6rem 0;
+}
+
+footer p {
+    color: tan
+}
+    
+    
+    
+    
+    
+    
+    
+    
 
 
     
