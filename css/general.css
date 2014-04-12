@@ -168,6 +168,10 @@ footer {
 footer p {
     color: tan
 }
+
+.bucket1 a:link {
+    border-color: black
+}
     
     
     
