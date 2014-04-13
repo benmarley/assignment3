@@ -30,7 +30,7 @@ body {
     margin:0;
     padding: 0;
     font-family: "gill sans";
-    font-size 1.5rem;
+    font-size: 1rem;
 }
 
 p {
@@ -62,7 +62,7 @@ header h1 {
 
 .nav-top ul {
     margin: 0;
-    padding 0;
+    padding: 0;
     background-color: tan;
     text-align: center;
 }
@@ -140,7 +140,7 @@ hr {
 
 .bucket1 {
     overflow: hidden;
-    margin: 1.5rem
+    margin: 3rem 5%;
 }
 
 .bucket1 div {
@@ -149,7 +149,6 @@ hr {
     margin: 0;
     padding: 0;
     border-style: solid;
-    border-color: black,
 }
 
 .bucket1 p {
