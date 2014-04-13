@@ -95,16 +95,37 @@ header h1 {
     background-position: top center;
 }
 
+.billboard h2, 
+.billboard:link,
+.billboard:visited {
+    color: black;
+    text-decoration: none;
+}
+.billboard, a {
+    text-decoration: none;
+}
+
 figure {
     margin: 1.5rem 5%;
     padding: 0;
 }
 
-figcaption {
+.odessa {
     text-align: center;
     background-color: tan;
-    padding:.2rem;
+    padding: 0;
+}
+.odessa a,
+.odessa:link,
+.odessa:visited {
+    color: black;
     text-decoration: none;
+    margin: 0;
+    padding: 0
+}
+
+figcaption {
+    padding: .5rem;
 }
 
 .title {
@@ -128,6 +149,7 @@ hr {
     margin: 0;
     padding: 0;
     border-style: solid;
+    border-color: black,
 }
 
 .bucket1 p {
@@ -169,9 +191,23 @@ footer p {
     color: tan
 }
 
-.bucket1 a:link {
-    border-color: black
+.bucket1 div,
+.bucket1:link,
+.bucket1:visited {
+    border-color: black;
 }
+
+.bucket1 p,
+.bucket1:link,
+.bucket1:visited {
+    color: brown;
+}
+    
+
+
+    
+    
+
     
     
     
