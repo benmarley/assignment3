@@ -177,8 +177,9 @@ hr {
 .socialbuckets {
     clear: both;
     display: inline-block;
-    margin: .5rem;
-    width: 20%;
+    margin: 0 2%;
+    padding:0;
+    width: 4.5rem;
 }
 
 footer {
