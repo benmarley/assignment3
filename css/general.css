@@ -29,13 +29,15 @@ img {
 body {
     margin:0;
     padding: 0;
-    font-family: "gill sans";
+    font-family: "gill sans", arial, "sans-serif";
     font-size: 1rem;
 }
 
 p {
+    font-size: 1rem;
     line-height: 1.5rem;
     margin: 1.5rem 5%;
+    font-family: "gill sans", arial, "sans-serif";
 }
 
 header {
@@ -44,16 +46,11 @@ header {
 }
 
 .logo {
-    width: 4.5rem;
-    height: auto;
+    width: 95%;
     float: left;
+    padding: .5rem
 }
 
-header h1 {
-    font-family: "gill sans";
-    color:  tan;
-}
-    
 .nav-top {
     clear:both;
     padding: 0;
@@ -82,17 +79,16 @@ header h1 {
     margin: 0;
     padding: .5rem 10%;
     color: white;
-    
-    
 }
 
 .billboard {
-    height: 15rem;
+    height: 16rem;
     background-repeat: no-repeat;
     background-image: url(../images/mastheadheadphones.jpg);
     background-size: 100%;
     background-color: gray;
     background-position: top center;
+    overflow: hidden;
 }
 
 .billboard h2, 
@@ -105,8 +101,13 @@ header h1 {
     text-decoration: none;
 }
 
+.billboard h2 {
+    text-align: left;
+    padding: 1rem;
+}
+
 figure {
-    margin: 1.5rem 5%;
+    margin: 0;
     padding: 0;
 }
 
@@ -114,6 +115,7 @@ figure {
     text-align: center;
     background-color: tan;
     padding: 0;
+    margin: 5%;
 }
 .odessa a,
 .odessa:link,
@@ -130,7 +132,7 @@ figcaption {
 
 .title {
     margin: 1.5rem 5% 1.5rem;
-    line-height: 3.5rem;
+    line-height: 3rem;
     font-size: 2.5rem;
 }
 
@@ -173,10 +175,10 @@ hr {
 }
 
 .socialbuckets {
-    width:4.5rem;
     clear: both;
     display: inline-block;
     margin: .5rem;
+    width: 20%;
 }
 
 footer {
@@ -187,7 +189,7 @@ footer {
 }
 
 footer p {
-    color: tan
+    color: tan;
 }
 
 .bucket1 div,
@@ -200,6 +202,7 @@ footer p {
 .bucket1:link,
 .bucket1:visited {
     color: brown;
+    font-size: 1rem;
 }
     
 
