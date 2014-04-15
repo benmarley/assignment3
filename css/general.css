@@ -179,7 +179,8 @@ hr {
     display: inline-block;
     margin: 0 2%;
     padding:0;
-    width: 4.5rem;
+    width: 19%;
+    align-content: center;
 }
 
 footer {
