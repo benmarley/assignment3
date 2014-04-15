@@ -206,6 +206,10 @@ footer p {
     color: brown;
     font-size: 1rem;
 }
+
+.selected {
+    background-color: brown;
+}
     
 
 
