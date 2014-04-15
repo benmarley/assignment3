@@ -82,7 +82,7 @@ header {
 }
 
 .billboard {
-    height: 16rem;
+    height: 15rem;
     background-repeat: no-repeat;
     background-image: url(../images/mastheadheadphones.jpg);
     background-size: 100%;
@@ -131,7 +131,7 @@ figcaption {
 }
 
 .title {
-    margin: 1.5rem 5% 1.5rem;
+    margin: 1.5rem 5%;
     line-height: 3rem;
     font-size: 2.5rem;
 }
