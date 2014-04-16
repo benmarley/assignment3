@@ -210,8 +210,69 @@ footer p {
 .selected {
     background-color: brown;
 }
-    
 
+.billboard2 {
+    height: 15rem;
+    background-repeat: no-repeat;
+    background-image: url(../images/headphones.jpg);
+    background-size: 100%;
+    background-color: gray;
+    background-position: top center;
+    overflow: hidden;
+}
+
+.billboard2 h2, 
+.billboard2:link,
+.billboard2:visited {
+    color: red;
+    text-decoration: none;
+}
+.billboard2, a {
+    text-decoration: none;
+}
+
+.billboard2 h2 {
+    text-align: left;
+    padding: 1rem;
+}
+
+.title2 {
+    margin: 1.5rem 10%;
+    line-height: 3rem;
+    font-size: 2.5rem;
+}
+
+.bucket2 {
+    overflow: hidden;
+    margin: .5rem 5%;
+}
+
+.bucket2 div {
+    float: left;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+    border-style: solid;
+}
+
+.bucket2 p {
+    float: right;
+    width: 50%;
+    margin:0;
+    padding: 1.5rem 0 0 0;
+}
+
+.bucket2 div,
+.bucket2:link,
+.bucket2:visited {
+    border-color: black;
+}
+
+.bucket2 p,
+.bucket2:link,
+.bucket2:visited {
+    color: brown;
+    font-size: 3rem;
 
     
     
