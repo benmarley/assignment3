@@ -224,7 +224,7 @@ footer p {
 .billboard2 h2, 
 .billboard2:link,
 .billboard2:visited {
-    color: red;
+    color: orange;
     text-decoration: none;
 }
 .billboard2, a {
@@ -275,6 +275,17 @@ footer p {
     font-size: 2.5rem;
 }
 
+.bucket2 div {
+    
+}
+
+.initiatives {
+    text-align: center;
+    padding: 1rem;
+    border-style: solid;
+    font-size: 1.5rem;
+    margin: 2rem 5%;
+}
     
     
 
