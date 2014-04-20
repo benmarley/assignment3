@@ -201,7 +201,7 @@ footer p {
 .billboard2 {
     height: 15rem;
     background-repeat: no-repeat;
-    background-image: url(../images/headphones.jpg);
+    background-image: url(../images/ecoheadphones.jpg);
     background-size: 100%;
     background-color: gray;
     background-position: top center;
@@ -298,7 +298,7 @@ footer p {
 .billboard3 {
     height: 15rem;
     background-repeat: no-repeat;
-    background-image: url(../images/ecoheadphones1.jpg);
+    background-image: url(../images/earbuds.jpg);
     background-size: 100%;
     background-color: gray;
     background-position: top center;
@@ -317,6 +317,13 @@ footer p {
     padding: 1rem;
 }
 
+.backgroundcol {
+    background-color: tan;
+}
+
+.backgroundcol p {
+    padding:1.5rem 0;
+}
 
     
     
