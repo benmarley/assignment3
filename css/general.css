@@ -188,7 +188,7 @@ hr {
 footer {
     background-color: #330000;
     overflow: hidden;
-    margin: 1.5 0 0 0;
+    margin: 1.5rem 0 0 0;
     padding: 0 0 3rem 0;
 }
 
@@ -324,19 +324,4 @@ footer p {
 
 .backgroundcol p {
     padding:1.5rem 0;
-}
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-    
+} 
