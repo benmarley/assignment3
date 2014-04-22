@@ -46,9 +46,9 @@ header {
 }
 
 .logo {
-    width: 95%;
+    width: 18rem;
+    padding: 1rem;
     float: left;
-    padding: .5rem
 }
 
 .nav-top {
@@ -97,6 +97,7 @@ header {
     color: black;
     text-decoration: none;
 }
+
 .billboard, a {
     text-decoration: none;
 }
@@ -117,6 +118,7 @@ figure {
     padding: 0;
     margin: 5%;
 }
+
 .odessa a,
 .odessa:link,
 .odessa:visited {
@@ -211,9 +213,10 @@ footer p {
 .billboard2 h2, 
 .billboard2:link,
 .billboard2:visited {
-    color: orange;
+    color: black;
     text-decoration: none;
 }
+
 .billboard2, a {
     text-decoration: none;
 }
@@ -259,7 +262,7 @@ footer p {
 .bucket2:link,
 .bucket2:visited {
     color: brown;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .bucket2 div {
@@ -318,7 +321,7 @@ footer p {
 }
 
 .backgroundcol {
-    background-color: tan;
+    background-color: #cc9966;
 }
 
 .backgroundcol p {
