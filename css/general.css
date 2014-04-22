@@ -83,11 +83,11 @@ header {
 
 .billboard {
     height: 15rem;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-image: url(../images/mastheadheadphones.jpg);
-    background-size: 100%;
     background-color: gray;
-    background-position: top center;
+    background-position: center center;
     overflow: hidden;
 }
 
@@ -206,7 +206,7 @@ footer p {
     background-image: url(../images/ecoheadphones.jpg);
     background-size: 100%;
     background-color: gray;
-    background-position: top center;
+    background-position: center;
     overflow: hidden;
 }
 
@@ -265,16 +265,14 @@ footer p {
     font-size: 1.5rem;
 }
 
-.bucket2 div {
-    
-}
-
 .initiatives {
     text-align: center;
     padding: 1rem;
     border-style: solid;
     font-size: 1.5rem;
     margin: 2rem 5%;
+    background-color: tan;
+    border-radius: 1.25rem;
 }
 
 .initiatives summary {
@@ -304,7 +302,7 @@ footer p {
     background-image: url(../images/earbuds.jpg);
     background-size: 100%;
     background-color: gray;
-    background-position: top center;
+    background-position: center;
     overflow: hidden;
 }
 
