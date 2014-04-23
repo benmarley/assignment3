@@ -94,7 +94,7 @@ header {
 .billboard h2, 
 .billboard:link,
 .billboard:visited {
-    color: black;
+    color: brown;
     text-decoration: none;
 }
 
@@ -104,7 +104,8 @@ header {
 
 .billboard h2 {
     text-align: left;
-    padding: 1rem;
+    padding: 1.5rem;
+    font-size: 2rem;
 }
 
 figure {
@@ -215,7 +216,7 @@ footer p {
 .billboard2 h2, 
 .billboard2:link,
 .billboard2:visited {
-    color: black;
+    color: brown;
     text-decoration: none;
 }
 
@@ -226,6 +227,7 @@ footer p {
 .billboard2 h2 {
     text-align: left;
     padding: 1rem;
+    font-size: 2rem;
 }
 
 .title2 {
@@ -311,13 +313,14 @@ footer p {
 .billboard3 h2, 
 .billboard3:link,
 .billboard3:visited {
-    color: black;
+    color: brown;
     text-decoration: none;
 }
 
 .billboard3 h2 {
     text-align: left;
     padding: 1rem;
+    font-size: 2rem;
 }
 
 .backgroundcol {
