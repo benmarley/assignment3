@@ -27,9 +27,9 @@ img {
 }
 
 body {
-    margin:0;
+    margin: 0;
     padding: 0;
-    font-family: "gill sans", arial, "sans-serif";
+    font-family: "Gill Sans", arial, "Sans-Serif";
     font-size: 1rem;
 }
 
@@ -37,7 +37,7 @@ p {
     font-size: 1rem;
     line-height: 1.5rem;
     margin: 1.5rem 5%;
-    font-family: "gill sans", arial, "sans-serif";
+    font-family: "Gill Sans", arial, "Sans-Serif";
 }
 
 header {
@@ -52,7 +52,7 @@ header {
 }
 
 .nav-top {
-    clear:both;
+    clear: both;
     padding: 0;
     margin: 0;
 }
@@ -65,7 +65,7 @@ header {
 }
 
 .nav-top li {
-    display:inline;
+    display: inline;
     margin: 0;
     padding: 0;
     font-size: 1.5rem
@@ -75,7 +75,7 @@ header {
 .nav-top:link,
 .nav-top:visited {
     text-decoration: none;
-    display:inline-block;
+    display: inline-block;
     margin: 0;
     padding: .5rem 10%;
     color: white;
@@ -137,7 +137,7 @@ figcaption {
     margin: 1.5rem 5%;
     line-height: 3rem;
     font-size: 2.5rem;
-    font-family: "open sans", "gills sans", "sans serif";
+    font-family: "Open Sans", "Gills Sans", "Sans Serif";
     font-weight: 400;
 }
 
@@ -148,7 +148,7 @@ hr {
 .buckets1 {
     overflow: hidden;
     margin: 1.5rem 0;
-    clear:both;
+    clear: both;
 }
 
 .buckets1 img {
@@ -162,7 +162,7 @@ hr {
 .buckets1 figcaption {
     float: right;
     width: 50%;
-    margin:0;
+    margin: 0;
     padding: 0 5% 0 0;
     font-size: 1.5rem;
 }
@@ -184,7 +184,7 @@ hr {
     clear: both;
     display: inline-block;
     margin: .5rem 3%;
-    padding:0;
+    padding: 0;
     width: 15%;
 }
 
@@ -244,7 +244,7 @@ footer p {
 .bucket2 div {
     float: left;
     width: 45%;
-    margin: 0;
+    margin: .5rem;
     padding: 0;
     border-style: solid;
 }
@@ -252,8 +252,8 @@ footer p {
 .bucket2 p {
     float: right;
     width: 50%;
-    margin:0;
-    padding: 1.5rem 0 0 0;
+    margin: 0;
+    padding: 2.5rem 0 0 0;
 }
 
 .bucket2 div,
@@ -292,7 +292,7 @@ footer p {
 }
 
 .video iframe {
-    border:0;
+    border: 0;
     position: absolute;
     top: 0;
     left: 0;
@@ -324,9 +324,9 @@ footer p {
 }
 
 .backgroundcol {
-    background-color: #cc9966;
+    background-color: tan;
 }
 
 .backgroundcol p {
-    padding:1.5rem 0;
+    padding: 1.5rem 0;
 } 
