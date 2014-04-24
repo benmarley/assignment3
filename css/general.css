@@ -95,7 +95,7 @@ header {
 .billboard h2, 
 .billboard:link,
 .billboard:visited {
-    color: brown;
+    color: red;
     text-decoration: none;
 }
 
@@ -105,7 +105,7 @@ header {
 
 .billboard h2 {
     text-align: left;
-    padding: 1.5rem;
+    padding: 10% 1.5rem;
     font-size: 2rem;
 }
 
@@ -118,7 +118,7 @@ figure {
     text-align: center;
     background-color: tan;
     padding: 0;
-    margin: 5%;
+    margin: 3rem 5% 6rem;
 }
 
 .odessa a,
@@ -164,7 +164,7 @@ hr {
     float: right;
     width: 50%;
     margin: 0;
-    padding: 0 5% 0 0;
+    padding: 1rem 5% 0 0;
     font-size: 1.5rem;
 }
 
@@ -192,7 +192,7 @@ hr {
 footer {
     background-color: #330000;
     overflow: hidden;
-    margin: 1.5rem 0 0 0;
+    margin: 6rem 0 0 0;
     padding: 0 0 3rem 0;
 }
 
