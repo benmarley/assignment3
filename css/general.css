@@ -48,8 +48,8 @@ header {
 .logo {
     height: 5rem;
     width: auto;
-    padding: 1rem 5%;
-    margin: 0 auto;
+    padding: 1rem 3rem;
+    margin: 0;
 }
 
 .nav-top {
