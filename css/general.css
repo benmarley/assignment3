@@ -49,6 +49,7 @@ header {
     width: 16rem;
     padding: 1rem 5%;
     float: left;
+    margin: 0;
 }
 
 .nav-top {
