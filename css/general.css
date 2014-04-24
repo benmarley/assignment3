@@ -46,10 +46,9 @@ header {
 }
 
 .logo {
-    width: 16rem;
-    padding: 1rem;
+    width: 17rem;
+    padding: 1rem 10%;
     float: left;
-    overflow: hidden;
 }
 
 .nav-top {
